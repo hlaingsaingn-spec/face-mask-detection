@@ -11,4 +11,4 @@ Face and mask detection using OpenCV
 - OpenCV
 
 ## 运行方法
-python mask_detect.py
+python face_mask_detect.py
